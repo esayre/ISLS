@@ -1,0 +1,42 @@
+# Project Repository
+
+* GitHub: https://github.com/jooyoungseo/ISLS
+
+# Project Objectives
+
+1. Making LaTeX templates for the two ISLS journals (i.e., JLS; ijCSCL) and two conferences (i.e., CSCL; ICLS).
+2. Developing R package, called "ISLS," to provide the ISLS members with reproducible research using R markdown (hereafter, Rmd) for the two journals and two conferences mentioned above.
+
+# Plans
+
+## Step 1: LaTeX
+
+Creating LaTeX templates for each of the four manuscripts following their author guidelines in the order below:
+
+1. [JLS](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=hlns20)
+2. [ijCSCL](http://ijcscl.org/?go=authors)
+3. ICLS: Need to find the guidelines.
+4. CSCL: Need to find the guidelines.
+
+## Step 2: Rmd
+
+Developing Rmd template files for each of the four manuscripts based on the LaTeX template created in the Step 1 in the order below:
+
+1. JLS
+2. ijCSCL
+3. ICLS
+4. CSCL
+
+## Step3: Testing
+
+Having a beta and alpha test the LaTeX and Rmd (ISLS R package) with the ISLS members and get constructive feedback for improvement.
+
+## Step4: Submission
+
+1. CRAN submission
+
+  As an independent R package called "ISLS": we can add more functions in the future for LS-specific needs going beyond the manuscript template. For example, sentimental dictionary based on LS literature, etc. etc.
+
+2. rticles Contribution
+
+  We can send our completed Rmd template along with its LaTeX base to rticles project team to publicly include ISLS templates for their project.
