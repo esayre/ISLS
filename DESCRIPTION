@@ -36,3 +36,4 @@ Suggests:
   latex2exp
 License: MIT + file LICENSE
 VignetteBuilder: knitr
+RoxygenNote: 6.0.1.9000
