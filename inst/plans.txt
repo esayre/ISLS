@@ -15,7 +15,7 @@ Creating LaTeX templates for each of the four manuscripts following their author
 
 1. [JLS](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=hlns20)
 2. [ijCSCL](http://ijcscl.org/?go=authors)
-3. ICLS: Need to find the guidelines.
+3. [ICLS](https://icls2018.weebly.com/uploads/4/9/1/2/49120569/isls_author_guidelines_oct2014.pdf)
 4. CSCL: Need to find the guidelines.
 
 ## Step 2: Rmd
